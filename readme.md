@@ -1,5 +1,5 @@
 ## Beautiful Data
-![test image](http://www.golinski.org/pub/beautiful-data/tempImage.jpg)
+![test image](https://github.com/github/training-kit/raw/master/images/tempImage.jpg)
 
 ###Plan Zajęć (Work In Progress)
 1. Bar graph
@@ -16,12 +16,6 @@
 | Zadanie 1 - ...    | pdf                     | 15%                       
 | Zadanie 1 - ...    | pdf                     | 15%                       
 | Projekt końcowy    | wydruk 50x70 - kolor    | 40%                       
-
-
-* 4 zadania (pdf / html)
-* 1 projekt końcowy ()
-
-
 
 ###Narzędzia
 * [Sublime Text 2](http://www.sublimetext.com/2)
