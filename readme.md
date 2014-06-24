@@ -8,8 +8,18 @@
 4. Interakcje
 
 ###Zaliczenie
+
+| Zadanie            | Sposób oddania          | Wpływ na ocenę końcową
+|:-------------------|:------------------------|-----------------------: 
+| Zadanie 1 - ...    | pdf                     | 15%                        
+| Zadanie 1 - ...    | pdf                     | 15%                    
+| Zadanie 1 - ...    | pdf                     | 15%                       
+| Zadanie 1 - ...    | pdf                     | 15%                       
+| Projekt końcowy    | wydruk 50x70 - kolor    | 40%                       
+
+
 * 4 zadania (pdf / html)
-* 1 projekt końcowy (wydruk 50x70 - kolor)
+* 1 projekt końcowy ()
 
 
 
