@@ -1,13 +1,16 @@
 ## Beautiful Data
 
-###Plan Zajęć (WIP)
-1. bar chart
-2. circle chart
-3. geo data
-4. interakcja
+###Plan Zajęć (Work In Progress)
+1. Bar graph
+2. Radial chart
+3. Geo data
+4. Interakcje
 
 ###Zaliczenie
-4 projekty
+* 4 zadania (pdf / html)
+* 1 projekt końcowy (wydruk 50x70 - kolor)
+
+![test image](images/tempImage.jpg)
 
 ###Narzędzia
 * [Sublime Text 2](http://www.sublimetext.com/2)

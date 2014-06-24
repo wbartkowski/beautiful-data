@@ -4,6 +4,7 @@ var svg = d3.select('body').append('svg').attr({
     width: 600,
     height: 400
 });
+
 svg.selectAll('rect').data(dataset).enter().append('rect').attr({
     x: function(d, i) {
         return i * 101;
