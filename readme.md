@@ -4,8 +4,9 @@
 ###Plan Zajęć (Work In Progress)
 1. Bar graph
 2. Radial chart
-3. Geo data
-4. Interakcje
+3. Animacja
+4. Geo data
+5. Interakcje
 
 ###Zaliczenie
 
