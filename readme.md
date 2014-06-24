@@ -1,6 +1,7 @@
 ## Beautiful Data
 
 ###Tools
+* [Sublime Text 2](http://www.sublimetext.com/2)
 * [D3](http://d3js.org)
 * [Chrome](http://www.google.com/intl/en/chrome/browser)
 * [SVG Crowbar](http://nytimes.github.io/svg-crowbar)
