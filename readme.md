@@ -1,18 +1,19 @@
-Beautiful Data
-======
+## Beautiful Data
+
+###Tools
 * [D3](http://d3js.org)
 * [Chrome](http://www.google.com/intl/en/chrome/browser)
 * [SVG Crowbar](http://nytimes.github.io/svg-crowbar)
 * [Your Flowing Data](http://your.flowingdata.com)
 
-Books
------
+###Books
+
 * Beautiful Visualization
 * Data Flow
 * Data Flow 2
 
-Important people
------
+###Important people
+
 * Jer Thorp
 * Edward Tufte
 * Martin Wattenberg
@@ -20,8 +21,8 @@ Important people
 * Nathan Yau
 * Nicholas Felton
 
-Data Sources
-----
+###Data Sources
+
 * [Free Base](http://www.freebase.com)
 * [Data.gov](http://www.data.gov)
 * [Data.gov.uk](http://data.gov.uk)
@@ -39,21 +40,21 @@ Data Sources
 * [Airports Data](http://ourairports.com/data)
 * [Pirating Oscars](http://waxy.org/2008/02/pirating_the_20_2)
 
-Resources and Inspiration
------
+###Resources and Inspiration
+
 * [Information is Beautiful](http://www.informationisbeautiful.net)
 * [Flowing Data](http://flowingdata.com)
 * ... some blogs (2-3)
 
 
 
-Plan Zajęć
------
+###Plan Zajęć
+
 * bar chart
 * circle chart
 * geo data
 
 
-Zaliczenie
------
+###Zaliczenie
+
 4 projekty
