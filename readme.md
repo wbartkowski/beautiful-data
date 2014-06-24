@@ -1,5 +1,5 @@
 ## Beautiful Data
-![test image](https://github.com/github/training-kit/raw/master/images/tempImage.jpg)
+![test image](https://github.com/kgolinski/beautiful-data/raw/master/images/tempImage.jpg)
 
 ###Plan Zajęć (Work In Progress)
 1. Bar graph
@@ -10,7 +10,7 @@
 ###Zaliczenie
 
 | Zadanie            | Sposób oddania          | Wpływ na ocenę końcową
-|:-------------------|:------------------------|-----------------------: 
+|:-------------------|------------------------:|-----------------------: 
 | Zadanie 1 - ...    | pdf                     | 15%                        
 | Zadanie 1 - ...    | pdf                     | 15%                    
 | Zadanie 1 - ...    | pdf                     | 15%                       
