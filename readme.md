@@ -11,12 +11,11 @@
 
 | Zadanie            | Sposób oddania          | Wpływ na ocenę końcową
 |:-------------------|------------------------:|-----------------------: 
-| Zadanie 1 - ...    | pdf                     |  15%                        
-| Zadanie 1 - ...    | pdf                     |  15%                    
-| Zadanie 1 - ...    | pdf                     |  15%                       
-| Zadanie 1 - ...    | html                    |  15%                       
-| Projekt końcowy    | wydruk 50x70 - kolor    |  40%                       
-|--------------------|-------------------------|------------------------
+| Zadanie 1 - ...    | pdf                     |  15%
+| Zadanie 1 - ...    | pdf                     |  15%
+| Zadanie 1 - ...    | pdf                     |  15%
+| Zadanie 1 - ...    | html                    |  15%
+| Projekt końcowy    | wydruk 50x70 - kolor    |  40%
 | Razem              |                         | 100%
 
 ###Narzędzia
