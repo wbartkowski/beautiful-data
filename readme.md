@@ -1,29 +1,21 @@
 ## Beautiful Data
 
-###Tools
+###Plan Zajęć (WIP)
+1. bar chart
+2. circle chart
+3. geo data
+4. interakcja
+
+###Zaliczenie
+4 projekty
+
+###Narzędzia
 * [Sublime Text 2](http://www.sublimetext.com/2)
 * [D3](http://d3js.org)
 * [Chrome](http://www.google.com/intl/en/chrome/browser)
 * [SVG Crowbar](http://nytimes.github.io/svg-crowbar)
-* [Your Flowing Data](http://your.flowingdata.com)
 
-###Books
-
-* Beautiful Visualization
-* Data Flow
-* Data Flow 2
-
-###Important people
-
-* Jer Thorp
-* Edward Tufte
-* Martin Wattenberg
-* Ben Fry
-* Nathan Yau
-* Nicholas Felton
-
-###Data Sources
-
+###Źródła danych
 * [Free Base](http://www.freebase.com)
 * [Data.gov](http://www.data.gov)
 * [Data.gov.uk](http://data.gov.uk)
@@ -41,21 +33,22 @@
 * [Airports Data](http://ourairports.com/data)
 * [Pirating Oscars](http://waxy.org/2008/02/pirating_the_20_2)
 
-###Resources and Inspiration
+###Ciekawe osoby
+* Jer Thorp
+* Edward Tufte
+* Martin Wattenberg
+* Ben Fry
+* Nathan Yau
+* Nicholas Felton
+
+###Książki
+* Beautiful Visualization
+* Data Flow
+* Data Flow 2
+
+###Zasoby i inspiracje
 
 * [Information is Beautiful](http://www.informationisbeautiful.net)
 * [Flowing Data](http://flowingdata.com)
+* [Your Flowing Data](http://your.flowingdata.com)
 * ... some blogs (2-3)
-
-
-
-###Plan Zajęć
-
-* bar chart
-* circle chart
-* geo data
-
-
-###Zaliczenie
-
-4 projekty
