@@ -10,7 +10,7 @@
 * 4 zadania (pdf / html)
 * 1 projekt końcowy (wydruk 50x70 - kolor)
 
-![test image](../master/images/tempImage.jpg)
+![test image](../blob/master/images/tempImage.jpg)
 
 ###Narzędzia
 * [Sublime Text 2](http://www.sublimetext.com/2)
