@@ -10,14 +10,16 @@
 
 ###Zaliczenie
 
-| Zadanie            | Sposób oddania          | Termin (nieprzekraczalny) | Wpływ na ocenę końcową
-|:-------------------|------------------------:|--------------------------:|------------------------: 
-| Zadanie 1          | pdf                     | 01-11-2014                | 15%
-| Zadanie 2          | pdf                     |                           | 15%
-| Zadanie 3          | pdf                     |                           | 15%
-| Zadanie 4          | html                    |                           | 15%
-| Projekt            | wydruk 50x70(kolor)     |                           | 40%
-| Razem              |                         |                           | 100%
+| Zadanie            | Format                  | Termin (*)       | Max
+|:-------------------|------------------------:|-----------------:|------------------------: 
+| Zadanie 1          | pdf                     | 01-11-2014       | 15%
+| Zadanie 2          | pdf                     |                  | 15%
+| Zadanie 3          | pdf                     |                  | 15%
+| Zadanie 4          | html                    |                  | 15%
+| Projekt            | wydruk 50x70(kolor)     |                  | 40%
+| Razem              |                         |                  | 100%
+
+(*) - Nieprzekraczalny
 
 ###Narzędzia
 * [Sublime Text 2](http://www.sublimetext.com/2)
