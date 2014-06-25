@@ -17,7 +17,7 @@
 | Zadanie 3          | pdf                     |                  | 15%
 | Zadanie 4          | html                    |                  | 15%
 | Projekt            | wydruk 50x70(kolor)     |                  | 40%
-| Razem              |                         |                  | 100%
+| __Razem__          |                         |                  | __100%__
 
 (*) - Nieprzekraczalny
 
