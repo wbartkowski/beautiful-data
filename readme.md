@@ -4,9 +4,10 @@
 ###Plan Zajęć (Work In Progress)
 1. Bar graph
 2. Radial chart
-3. Animacja
-4. Geo data
-5. Interakcje
+3. Treemaps
+4. Animacja
+5. Geo data
+6. Interakcje
 
 ###Zaliczenie
 
@@ -19,7 +20,7 @@
 | Projekt            | wydruk 50x70(kolor)     |                  | 40%
 | __Razem__          |                         |                  | __100%__
 
-(*) - Nieprzekraczalny
+* - Nieprzekraczalny i ostateczny
 
 ###Narzędzia
 * [Sublime Text 2](http://www.sublimetext.com/2)
@@ -60,7 +61,9 @@
 
 ###Zasoby i inspiracje
 
+* [D3 Showreel](https://vimeo.com/29862153)
 * [Information is Beautiful](http://www.informationisbeautiful.net)
 * [Flowing Data](http://flowingdata.com)
+* [The Largest Vocabulary in Hip Hop](http://rappers.mdaniels.com.s3-website-us-east-1.amazonaws.com)
 * [Your Flowing Data](http://your.flowingdata.com)
 * ... some blogs (2-3)
