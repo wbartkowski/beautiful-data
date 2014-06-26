@@ -6,14 +6,14 @@ var svg = d3.select('body').append('svg').attr({
 });
 
 svg.selectAll('rect').data(dataset).enter().append('rect').attr({
-    x: function(d, i) {
+    x: function (d, i) {
         return i * 101;
     },
-    y: function(d, i) {
+    y: function (d, i) {
         return 400 - (d * 5);
     },
     width: 100,
-    height: function(d) {
+    height: function (d) {
         return d * 5;
     },
     fill: 'orange'

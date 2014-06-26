@@ -8,17 +8,16 @@
 4. Streamgraph
 5. Interakcje
 6. Animacja
-7. Geo data
-
+7. Wizualizacje danych geograficznych
 
 ###Zaliczenie
 | Zadanie            | Format                  | Termin (*)       | Max
 |:-------------------|------------------------:|-----------------:|------------------------: 
-| Zadanie 1          | pdf                     | 01-11-2014       | 15%
-| Zadanie 2          | pdf                     |                  | 15%
-| Zadanie 3          | pdf                     |                  | 15%
-| Zadanie 4          | html                    |                  | 15%
-| Projekt            | wydruk 50x70(kolor)     |                  | 40%
+| Zadanie 1          | pdf                     | 01-11-2014(?)    | 15%
+| Zadanie 2          | pdf                     | 14-11-2014(?)    | 15%
+| Zadanie 3          | pdf                     | 01-12-2014(?)    | 15%
+| Zadanie 4          | html                    | 14-12-2014(?)    | 15%
+| Projekt            | wydruk 50x70(kolor)     | 10-01-2014(?)    | 40%
 | __Razem__          |                         |                  | __100%__
 
 \* - Nieprzekraczalny i ostateczny
@@ -27,6 +26,7 @@
 * [Sublime Text 2](http://www.sublimetext.com/2) / [Brackets](http://brackets.io)
 * [D3](http://d3js.org)
 * [Chrome](http://www.google.com/intl/en/chrome/browser)
+* [Live Reload](http://feedback.livereload.com/knowledgebase/articles/67441-how-do-i-start-using-livereload)
 * [SVG Crowbar](http://nytimes.github.io/svg-crowbar)
 
 ###Źródła danych
@@ -47,7 +47,7 @@
 * [Airports Data](http://ourairports.com/data)
 * [Pirating Oscars](http://waxy.org/2008/02/pirating_the_20_2)
 
-###Ciekawe osoby
+###Ciekawe postacie
 * [Jer Thorp](http://blog.blprnt.com)
 * [Nicholas Felton](http://feltron.com)
 * [Ben Fry](http://benfry.com)
