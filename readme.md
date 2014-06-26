@@ -57,6 +57,7 @@
 
 ###Książki
 * [Beautiful Visualization](http://www.amazon.com/Beautiful-Visualization-Looking-through-Practice/dp/1449379869)
+* [Beautiful Data](http://www.amazon.com/Beautiful-Data-Stories-Elegant-Solutions/dp/0596157118)
 * [Data Flow](http://www.amazon.com/data-design-graphique-visualisation-dinformation/dp/2878113330)
 * [Data Flow 2](http://www.amazon.com/Data-Flow-Visualizing-Information-Graphic/dp/3899552784)
 * [Getting Started with D3](http://www.amazon.com/Getting-Started-D3-Mike-Dewar/dp/1449328792)
