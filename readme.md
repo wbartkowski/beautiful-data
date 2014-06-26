@@ -5,12 +5,13 @@
 1. Bar graph
 2. Radial chart
 3. Treemaps
-4. Animacja
-5. Geo data
-6. Interakcje
+4. Streamgraph
+5. Interakcje
+6. Animacja
+7. Geo data
+
 
 ###Zaliczenie
-
 | Zadanie            | Format                  | Termin (*)       | Max
 |:-------------------|------------------------:|-----------------:|------------------------: 
 | Zadanie 1          | pdf                     | 01-11-2014       | 15%
@@ -20,10 +21,10 @@
 | Projekt            | wydruk 50x70(kolor)     |                  | 40%
 | __Razem__          |                         |                  | __100%__
 
-* - Nieprzekraczalny i ostateczny
+\* - Nieprzekraczalny i ostateczny
 
 ###Narzędzia
-* [Sublime Text 2](http://www.sublimetext.com/2)
+* [Sublime Text 2](http://www.sublimetext.com/2) / [Brackets](http://brackets.io)
 * [D3](http://d3js.org)
 * [Chrome](http://www.google.com/intl/en/chrome/browser)
 * [SVG Crowbar](http://nytimes.github.io/svg-crowbar)
@@ -47,23 +48,29 @@
 * [Pirating Oscars](http://waxy.org/2008/02/pirating_the_20_2)
 
 ###Ciekawe osoby
-* Jer Thorp
-* Edward Tufte
-* Martin Wattenberg
-* Ben Fry
-* Nathan Yau
-* Nicholas Felton
+* [Jer Thorp](http://blog.blprnt.com)
+* [Nicholas Felton](http://feltron.com)
+* [Ben Fry](http://benfry.com)
+* [Martin Wattenberg](http://www.bewitched.com)
+* [Nathan Yau](http://flowingdata.com/about-nathan)
+* [Edward Tufte](http://www.edwardtufte.com)
 
 ###Książki
-* Beautiful Visualization
-* Data Flow
-* Data Flow 2
+* [Beautiful Visualization](http://www.amazon.com/Beautiful-Visualization-Looking-through-Practice/dp/1449379869)
+* [Data Flow](http://www.amazon.com/data-design-graphique-visualisation-dinformation/dp/2878113330)
+* [Data Flow 2](http://www.amazon.com/Data-Flow-Visualizing-Information-Graphic/dp/3899552784)
+* [Getting Started with D3](http://www.amazon.com/Getting-Started-D3-Mike-Dewar/dp/1449328792)
+* [Interactive Data Visualization for the Web](http://www.amazon.com/Interactive-Data-Visualization-Scott-Murray/dp/1449339735)
+* [Visualizing Data](http://www.amazon.com/Visualizing-Data-Explaining-Processing-Environment/dp/0596514557)
+* [The Functional Art: An introduction to information graphics and visualization](http://www.amazon.com/Functional-Art-introduction-information-visualization/dp/0321834739)
+* [Visualize This](http://www.amazon.com/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889)
+* [Envisioning Information](http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118)
 
 ###Zasoby i inspiracje
-
 * [D3 Showreel](https://vimeo.com/29862153)
+* [Information Aesthetics](http://infosthetics.com)
 * [Information is Beautiful](http://www.informationisbeautiful.net)
 * [Flowing Data](http://flowingdata.com)
-* [The Largest Vocabulary in Hip Hop](http://rappers.mdaniels.com.s3-website-us-east-1.amazonaws.com)
 * [Your Flowing Data](http://your.flowingdata.com)
-* ... some blogs (2-3)
+* [Datavisualization.ch](http://selection.datavisualization.ch)
+* [The Largest Vocabulary in Hip Hop](http://rappers.mdaniels.com.s3-website-us-east-1.amazonaws.com)
