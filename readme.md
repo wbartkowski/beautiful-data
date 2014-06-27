@@ -1,26 +1,27 @@
 ## Beautiful Data
-![Title image](https://github.com/kgolinski/beautiful-data/raw/master/images/tempImage.jpg)
+![Title image](https://github.com/kgolinski/beautiful-data/raw/master/img/tempImage.jpg)
 
 ###Plan Zajęć (Work In Progress)
 1. Bar graph
-2. Radial chart
+2. Radial chart (diagram sieci)
 3. Treemaps
 4. Streamgraph
-5. Interakcje
-6. Animacja
-7. Wizualizacje danych geograficznych
+5. Wielopoziomowe dane
+6. Interakcje
+7. Animacja
+8. Wizualizacje danych geograficznych
 
 ###Zaliczenie
 | Zadanie            | Format                  | Termin (*)       | Max
 |:-------------------|------------------------:|-----------------:|------------------------: 
 | Zadanie 1          | pdf                     | 01-11-2014(?)    | 15%
 | Zadanie 2          | pdf                     | 14-11-2014(?)    | 15%
-| Zadanie 3          | pdf                     | 01-12-2014(?)    | 15%
+| Zadanie 3          | html                    | 01-12-2014(?)    | 15%
 | Zadanie 4          | html                    | 14-12-2014(?)    | 15%
 | Projekt            | wydruk 50x70(kolor)     | 10-01-2014(?)    | 40%
 | __Razem__          |                         |                  | __100%__
 
-\* - Nieprzekraczalny i ostateczny
+\* - Ostateczny i nieprzekraczalny
 
 ###Narzędzia
 * [Sublime Text 2](http://www.sublimetext.com/2) / [Brackets](http://brackets.io)
