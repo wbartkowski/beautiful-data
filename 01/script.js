@@ -1,8 +1,8 @@
 var dataset = [8, 48, 14, 31, 23];
 
 var svg = d3.select('body').append('svg').attr({
-    width: 600,
-    height: 400
+    width: window.innerWidth,
+    height: window.innerHeight
 });
 
 svg.selectAll('rect').data(dataset).enter().append('rect').attr({
