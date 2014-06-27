@@ -1,4 +1,4 @@
-var dataset = [8, 48, 14, 31, 23];
+var dataset = [8, 48, 14, 31, 23, 12, 38, 27];
 
 var svg = d3.select('body').append('svg').attr({
     width: window.innerWidth,
