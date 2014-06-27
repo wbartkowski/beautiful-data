@@ -1,5 +1,5 @@
 ## Beautiful Data
-![test image](https://github.com/kgolinski/beautiful-data/raw/master/images/tempImage.jpg)
+![Title image](https://github.com/kgolinski/beautiful-data/raw/master/images/tempImage.jpg)
 
 ###Plan Zajęć (Work In Progress)
 1. Bar graph
