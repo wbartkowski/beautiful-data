@@ -1,4 +1,4 @@
-var ramboData = [
+var rambo = [
     {
         "name": "First Blood", //Name of the movie
         "year": 1982, //Year of the premiere
