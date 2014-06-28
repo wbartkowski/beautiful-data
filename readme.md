@@ -29,6 +29,7 @@
 * [Chrome](http://www.google.com/intl/en/chrome/browser)
 * [Live Reload](http://feedback.livereload.com/knowledgebase/articles/67441-how-do-i-start-using-livereload)
 * [SVG Crowbar](http://nytimes.github.io/svg-crowbar)
+* [Moves](http://moves-app.com)
 
 ###Źródła danych
 * [Free Base](http://www.freebase.com)
