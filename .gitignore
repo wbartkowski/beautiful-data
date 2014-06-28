@@ -16,5 +16,5 @@ xcuserdata
 # svn & cvs
 .svn
 CVS
-books/*
-inspiration/*
+
+other/*
