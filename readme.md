@@ -24,7 +24,7 @@
 \* - Ostateczny i nieprzekraczalny
 
 ###Narzędzia
-* [Brackets](http://brackets.io) / [Sublime Text 2](http://www.sublimetext.com/2)
+* [Sublime Text 2](http://www.sublimetext.com/2) / [Brackets](http://brackets.io)
 * [D3](http://d3js.org)
 * [Chrome](http://www.google.com/intl/en/chrome/browser)
 * [Live Reload](http://feedback.livereload.com/knowledgebase/articles/67441-how-do-i-start-using-livereload)

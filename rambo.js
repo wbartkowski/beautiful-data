@@ -1,5 +1,4 @@
-var rambo =
-[{
+var rambo = [{
     "name": "First Blood", //Name of the movie
     "year": 1982, //Year of the premiere
     "killsShirt": 1, //Number of bad guys killed by Rambo with his shirt on
@@ -14,8 +13,7 @@ var rambo =
     "noResult": 12, //Sequences in which Rambo is shot without significant result
     "torture": 2, //Number of sequences in which good guys are tortured by bad guys
     "sexScenes": 0
-},
-{
+}, {
     "name": "Rambo: First Blood Part II", //Name of the movie
     "year": 1985, //Year of the premiere
     "killsShirt": 12, //Number of bad guys killed by Rambo with his shirt on
@@ -30,8 +28,7 @@ var rambo =
     "noResult": 24, //Sequences in which Rambo is shot without significant result
     "torture": 5, //Number of sequences in which good guys are tortured by bad guys
     "sexScenes": 0
-},
-{
+}, {
     "name": "Rambo III", //Name of the movie
     "year": 1988, //Year of the premiere
     "killsShirt": 33, //Number of bad guys killed by Rambo with his shirt on
@@ -46,8 +43,7 @@ var rambo =
     "noResult": 38, //Sequences in which Rambo is shot without significant result
     "torture": 7, //Number of sequences in which good guys are tortured by bad guys
     "sexScenes": 0
-},
-{
+}, {
     "name": "Rambo", //Name of the movie
     "year": 2008 //Year of the premiere
     "killsShirt": 83, //Number of bad guys killed by Rambo with his shirt on
