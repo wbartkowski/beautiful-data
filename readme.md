@@ -5,12 +5,13 @@
 ###Plan Zajęć (Work In Progress)
 1. Bar graph
 2. Radial chart (diagram sieci)
-3. Treemaps
-4. Streamgraph
-5. Wielopoziomowe dane
-6. Interakcje
+3. Osie
+4. Treemaps
+5. Streamgraph
+6. Wielopoziomowe dane
 7. Animacja
-8. Wizualizacje danych geograficznych
+8. Interakcje
+9. Wizualizacje danych geograficznych
 
 ###Zaliczenie
 | Zadanie            | Format                  | Termin (*)       | Max
@@ -23,8 +24,8 @@
 | __Razem__          |                         |                  | __100%__
 
 \* - Ostateczny i nieprzekraczalny :skull:
-##Przydatne informacje
 
+##Przydatne informacje
 ###Serwer w Python
 [Instalacja](https://www.python.org/downloads)
 
