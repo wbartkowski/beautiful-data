@@ -25,7 +25,8 @@
 \* - Ostateczny i nieprzekraczalny :skull:
 ##Przydatne informacje
 
-###Serwer w python
+###Serwer w Python
+[Instalacja](https://www.python.org/downloads)
 
 ```bash
 # Python 2:
