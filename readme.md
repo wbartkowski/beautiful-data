@@ -27,11 +27,11 @@
 
 ###Serwer w python
 
-```
-//Python 2
+```bash
+# Python 2:
 python -m SimpleHTTPServer [port]
 
-//Python 3
+# Python 3:
 python -m http.server [port]
 ```
 
