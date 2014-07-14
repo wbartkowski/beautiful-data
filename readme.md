@@ -1,6 +1,7 @@
-## Beautiful Data
+#Beautiful Data
 ![Title image](https://github.com/kgolinski/beautiful-data/raw/master/img/tempImage.jpg)
 
+##Organizacyjne
 ###Plan Zajęć (Work In Progress)
 1. Bar graph
 2. Radial chart (diagram sieci)
@@ -21,8 +22,20 @@
 | Projekt            | wydruk 50x70(kolor)     | 10-01-2014(?)    | 40%
 | __Razem__          |                         |                  | __100%__
 
-\* - Ostateczny i nieprzekraczalny
+\* - Ostateczny i nieprzekraczalny :skull:
+##Przydatne informacje
 
+###Serwer w python
+
+```
+//Python 2
+python -m SimpleHTTPServer [port]
+
+//Python 3
+python -m http.server [port]
+```
+
+##Zasoby i linki
 ###Narzędzia
 * [Sublime Text 2](http://www.sublimetext.com/2) / [Brackets](http://brackets.io)
 * [D3](http://d3js.org)
@@ -71,7 +84,7 @@
 * [Visualize This](http://www.amazon.com/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889)
 * [Envisioning Information](http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118)
 
-###Zasoby i inspiracje
+###Inspiracje
 * [D3 Showreel](https://vimeo.com/29862153)
 * [Information Aesthetics](http://infosthetics.com)
 * [Information is Beautiful](http://www.informationisbeautiful.net)
