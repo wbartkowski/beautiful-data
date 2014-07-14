@@ -30,6 +30,7 @@
 * [Live Reload](http://feedback.livereload.com/knowledgebase/articles/67441-how-do-i-start-using-livereload)
 * [SVG Crowbar](http://nytimes.github.io/svg-crowbar)
 * [Moves](http://moves-app.com)
+* [Reporter](http://www.reporter-app.com)
 * [netvizz](https://apps.facebook.com/netvizz)
 
 ###Źródła danych
@@ -79,3 +80,6 @@
 * [Datavisualization.ch](http://selection.datavisualization.ch)
 * [Jer Thorp - Eyeo Festival 2011](http://vimeo.com/35300280)
 * [The Largest Vocabulary in Hip Hop](http://rappers.mdaniels.com.s3-website-us-east-1.amazonaws.com)
+* [Feltron Blog](http://feltron.tumblr.com)
+* [Visual.ly](http://blog.visual.ly)
+* [Visualization Types](http://guides.library.duke.edu/vis_types)
