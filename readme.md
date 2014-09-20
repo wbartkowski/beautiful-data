@@ -97,5 +97,6 @@ python -m http.server [port]
 * [This is how we move](http://vimeo.com/99614610)
 * [The Largest Vocabulary in Hip Hop](http://rappers.mdaniels.com.s3-website-us-east-1.amazonaws.com)
 * [Feltron Blog](http://feltron.tumblr.com)
+* [Vizualize](http://vizualize.tumblr.com)
 * [Visual.ly](http://blog.visual.ly)
 * [Visualization Types](http://guides.library.duke.edu/vis_types)
