@@ -1,8 +1,17 @@
 #Beautiful Data
 ![Title image](https://github.com/kgolinski/beautiful-data/raw/master/img/tempImage.jpg)
 
+
+#Zajęcia
+| Termin       | Prowadzenie
+|:-------------|--------------------: 
+| 16.12.2014   | Krzysztof Goliński
+| 09.01.2015   | Krzysztof Goliński
+| 20.01.2015   | Krzysztof Goliński
+| 27.01.2015   | Wiesław Bartkowski
+
 ###Zaliczenie
-| Zadanie                   | Format                  | Termin (*)       | Max
+| Zadanie                   | Format                  | Termin           | Max
 |:--------------------------|------------------------:|-----------------:|------------------------:
 | Plakat                    | pdf                     | 			   ? | 50%
 | Interaktywna wizualizacja | pde                     |                ? | 50%
