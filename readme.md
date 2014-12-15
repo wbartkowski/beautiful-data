@@ -20,7 +20,6 @@
 * [Sublime Text 2](http://www.sublimetext.com/2) / [Brackets](http://brackets.io)
 * [Moves](http://moves-app.com)
 * [Reporter](http://www.reporter-app.com)
-* [Open Street Map](http://www.openstreetmap.org)
 * [netvizz](https://apps.facebook.com/netvizz)
 
 ###Źródła danych
@@ -34,7 +33,7 @@
 * [Amazon Public Datasets](http://aws.amazon.com/publicdatasets)
 * [Google Trends](http://www.google.com/trends)
 * [World Health Organization](http://www.who.int/research/en)
-* [Open Street Map](http://www.openstreetmap.org/export)
+* [Open Street Map](http://www.openstreetmap.org)
 * [Many Eyes Datasets](http://www-958.ibm.com/software/analytics/manyeyes/datasets)
 * [Open Secrets](http://www.opensecrets.org/resources/create/data.php)
 * [Influence Explorer Data](http://data.influenceexplorer.com/bulk)
