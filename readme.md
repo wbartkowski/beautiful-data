@@ -1,47 +1,20 @@
 #Beautiful Data
 ![Title image](https://github.com/kgolinski/beautiful-data/raw/master/img/tempImage.jpg)
 
-##Organizacyjne
-###Plan Zajęć (Work In Progress)
-1. Teoria + rambo + export do pdf
-2. ?
-3. Facebook radial graph
-4. Treemaps
-
-
 ###Zaliczenie
-| Zadanie            | Format                  | Termin (*)       | Max
-|:-------------------|------------------------:|-----------------:|------------------------:
-| Zadanie 1          | pdf                     | 01-11-2014(?)    | 15%
-| Zadanie 2          | pdf                     | 14-11-2014(?)    | 15%
-| Zadanie 3          | html                    | 01-12-2014(?)    | 15%
-| Zadanie 4          | html                    | 14-12-2014(?)    | 15%
-| Projekt            | wydruk 50x70(kolor)     | 10-01-2014(?)    | 40%
-| __Razem__          |                         |                  | __100%__
+| Zadanie                   | Format                  | Termin (*)       | Max
+|:--------------------------|------------------------:|-----------------:|------------------------:
+| Plakat                    | pdf                     | 			   ? | 50%
+| Interaktywna wizualizacja | pde                     |                ? | 50%
+| __Razem__                 |                         |                  | __100%__
 
-\* - Ostateczny i nieprzekraczalny :skull:
-
-##Przydatne informacje
-###Serwer w Python
-[Instalacja](https://www.python.org/downloads)
-
-```bash
-# Python 2:
-python -m SimpleHTTPServer [port]
-
-# Python 3:
-python -m http.server [port]
-```
 
 ##Zasoby i linki
 ###Narzędzia
 * [Sublime Text 2](http://www.sublimetext.com/2) / [Brackets](http://brackets.io)
-* [D3](http://d3js.org)
-* [Chrome](http://www.google.com/intl/en/chrome/browser)
-* [Live Reload](http://feedback.livereload.com/knowledgebase/articles/67441-how-do-i-start-using-livereload)
-* [SVG Crowbar](http://nytimes.github.io/svg-crowbar)
 * [Moves](http://moves-app.com)
 * [Reporter](http://www.reporter-app.com)
+* [Open Street Map](http://www.openstreetmap.org)
 * [netvizz](https://apps.facebook.com/netvizz)
 
 ###Źródła danych
