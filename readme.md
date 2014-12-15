@@ -74,4 +74,4 @@
 * [Vizualize](http://vizualize.tumblr.com)
 * [Visual.ly](http://blog.visual.ly)
 * [Visualization Types](http://guides.library.duke.edu/vis_types)
-* [Fathom] (http://fathom.info)
+* [Fathom](http://fathom.info)
