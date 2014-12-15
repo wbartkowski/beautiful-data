@@ -1,6 +1,4 @@
 import processing.pdf.*;
-
-
 Table table;
 PShape knife;
 float max;

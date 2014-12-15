@@ -1,5 +1,5 @@
 #Beautiful Data
-![Title image](https://github.com/kgolinski/beautiful-data/raw/master/img/tempImage.jpg)
+![Title image](https://github.com/kgolinski/beautiful-data/raw/master/img/title.jpg)
 
 
 #Zajęcia
@@ -13,10 +13,9 @@
 ###Zaliczenie
 | Zadanie                   | Format                  | Termin           | Max
 |:--------------------------|------------------------:|-----------------:|------------------------:
-| Plakat                    | pdf                     | 			   ? | 50%
-| Interaktywna wizualizacja | pde                     |                ? | 50%
+| Plakat                    | pdf                     |       30.01.2015 | 50%
+| Interaktywna wizualizacja | pde                     |       15.02.2015 | 50%
 | __Razem__                 |                         |                  | __100%__
-
 
 ##Zasoby i linki
 ###Narzędzia
@@ -78,3 +77,4 @@
 * [Vizualize](http://vizualize.tumblr.com)
 * [Visual.ly](http://blog.visual.ly)
 * [Visualization Types](http://guides.library.duke.edu/vis_types)
+* [] (http://fathom.info)
