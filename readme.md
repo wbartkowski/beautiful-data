@@ -3,19 +3,15 @@
 
 ##Organizacyjne
 ###Plan Zajęć (Work In Progress)
-1. Bar graph
-2. Radial chart (diagram sieci)
-3. Osie
+1. Teoria + rambo + export do pdf
+2. ?
+3. Facebook radial graph
 4. Treemaps
-5. Streamgraph
-6. Wielopoziomowe dane
-7. Animacja
-8. Interakcje
-9. Wizualizacje danych geograficznych
+
 
 ###Zaliczenie
 | Zadanie            | Format                  | Termin (*)       | Max
-|:-------------------|------------------------:|-----------------:|------------------------: 
+|:-------------------|------------------------:|-----------------:|------------------------:
 | Zadanie 1          | pdf                     | 01-11-2014(?)    | 15%
 | Zadanie 2          | pdf                     | 14-11-2014(?)    | 15%
 | Zadanie 3          | html                    | 01-12-2014(?)    | 15%
