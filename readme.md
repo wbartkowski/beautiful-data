@@ -1,6 +1,4 @@
-#Beautiful Data
 ![Title image](https://github.com/kgolinski/beautiful-data/raw/master/img/title.jpg)
-
 
 #Zajęcia
 | Termin       | Prowadzenie
