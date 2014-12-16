@@ -18,6 +18,7 @@
 ##Zasoby i linki
 ###Narzędzia
 * [Sublime Text 2](http://www.sublimetext.com/2) / [Brackets](http://brackets.io)
+* [Processing](http://processing.org)
 * [Moves](http://moves-app.com)
 * [Reporter](http://www.reporter-app.com)
 * [netvizz](https://apps.facebook.com/netvizz)
