@@ -21,6 +21,7 @@
 * [Moves](http://moves-app.com)
 * [Reporter](http://www.reporter-app.com)
 * [netvizz](https://apps.facebook.com/netvizz)
+* [last.fm](http://www.last.fm/api)
 
 ###Źródła danych
 * [Free Base](http://www.freebase.com)
