@@ -4,8 +4,8 @@ Table people;
 Table links;
 
 void setup(){
-  //size(1440,600,PDF,"output.pdf");
-  size(800,800);
+  size(1440,600,PDF,"output.pdf");
+  //size(800,800);
   people = loadTable("people.csv");
   links = loadTable("links.csv");
   for(int i=0;i<links.getRowCount();i++){
@@ -46,7 +46,13 @@ void draw(){
   for(int i=0;i<links.getRowCount();i++){
     int linkFrom = links.getInt(i,0);
     int linkTo = links.getInt(i,1);
-    bezier(linkFrom*tSize+tSize/2.0, 550, linkFrom*tSize+tSize/2.0, 0, linkTo*tSize+tSize/2.0, 0, linkTo*tSize+tSize/2.0, 550);
+    float angleFrom = radians(linkFrom*(360.0/people.getRowCount()));
+    float angleTo = radians(linkTo*(360.0/people.getRowCount()));
+    PVector from = new PVector(radius*cos(angleFrom),radius*sin(angleFrom));
+    PVector to = new PVector(radius*cos(angleTo),radius*sin(angleTo));
+    
+    bezier(from.x, from.y, from.x/2.0, from.y/2.0, 
+    to.x/2.0, to.y/2.0, to.x,to.y);
   }
-  //exit();
+  exit();
 }
