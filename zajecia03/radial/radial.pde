@@ -2,10 +2,14 @@ import processing.pdf.*;
 
 Table people;
 Table links;
+PFont font;
 
 void setup(){
-  size(1440,600,PDF,"output.pdf");
-  //size(800,800);
+  size(900,900,PDF,"output.pdf");
+  //size(900,900);
+  font = createFont("DINPro-Medium",32);
+  textFont(font);
+  
   people = loadTable("people.csv");
   links = loadTable("links.csv");
   for(int i=0;i<links.getRowCount();i++){
@@ -35,7 +39,7 @@ void draw(){
   textSize(tSize);
   for(int i=0;i<people.getRowCount();i++){
     pushMatrix();
-    rotate(radians(i*(360.0/people.getRowCount())));
+    rotate(radians(0.5+i*(360.0/people.getRowCount())));
     translate(radius,0);  
     //rotate(PI/2.0);
     text(people.getString(i,1),0,0);
