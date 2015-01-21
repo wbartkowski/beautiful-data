@@ -46,10 +46,13 @@ void draw(){
     popMatrix();
   }
   noFill();
-  stroke(0,10);
   for(int i=0;i<links.getRowCount();i++){
     int linkFrom = links.getInt(i,0);
     int linkTo = links.getInt(i,1);
+    stroke(0,20);
+    if(linkFrom == 25 || linkTo == 25){
+      stroke(255,0,0,100);
+    }
     float angleFrom = radians(linkFrom*(360.0/people.getRowCount()));
     float angleTo = radians(linkTo*(360.0/people.getRowCount()));
     PVector from = new PVector(radius*cos(angleFrom),radius*sin(angleFrom));
