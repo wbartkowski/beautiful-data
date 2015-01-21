@@ -33,7 +33,7 @@ void draw(){
   textSize(tSize);
   for(int i=0;i<people.getRowCount();i++){
     pushMatrix();
-    translate(i*tSize,550);  
+    translate(i*tSize,300);  
     rotate(PI/2.0);
     text(people.getString(i,1),0,0);
     popMatrix();
@@ -43,7 +43,7 @@ void draw(){
   for(int i=0;i<links.getRowCount();i++){
     int linkFrom = links.getInt(i,0);
     int linkTo = links.getInt(i,1);
-    bezier(linkFrom*tSize+tSize/2.0, 550, linkFrom*tSize+tSize/2.0, 0, linkTo*tSize+tSize/2.0, 0, linkTo*tSize+tSize/2.0, 550);
+    bezier(linkFrom*tSize+tSize/2.0, 300, linkFrom*tSize+tSize/2.0, 0, linkTo*tSize+tSize/2.0, 0, linkTo*tSize+tSize/2.0, 300);
   }
   exit();
 }
